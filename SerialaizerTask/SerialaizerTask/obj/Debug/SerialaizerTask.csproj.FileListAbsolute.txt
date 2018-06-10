@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\SerialaizerTask\SerialaizerTask\obj\Debug\SerialaizerTask.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SerialaizerTask\SerialaizerTask\obj\Debug\SerialaizerTask.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SerialaizerTask\SerialaizerTask\bin\Debug\SerialaizerTask.exe.config
+C:\Users\Asus\source\repos\SerialaizerTask\SerialaizerTask\bin\Debug\SerialaizerTask.exe
+C:\Users\Asus\source\repos\SerialaizerTask\SerialaizerTask\bin\Debug\SerialaizerTask.pdb
+C:\Users\Asus\source\repos\SerialaizerTask\SerialaizerTask\obj\Debug\SerialaizerTask.exe
+C:\Users\Asus\source\repos\SerialaizerTask\SerialaizerTask\obj\Debug\SerialaizerTask.pdb
